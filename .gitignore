@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# User Data
+twitter_credentials.py
